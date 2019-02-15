@@ -4,6 +4,11 @@ ML Kit for Firebase Quickstart
 The ML Kit for Firebase Android Quickstart app demonstrates how to use the
 various features of ML Kit to add machine learning to your application.
 
+QR Code Scan
+------------
+- Use branch [qrcode](https://github.com/ksc91u/android-firebase-mlkit/tree/qrcode) 
+<img src="app/src/qr.png" height="534" width="300"/>
+
 Introduction
 ------------
 
