@@ -27,9 +27,6 @@
         <activity android:name=".LivePreviewActivity" android:exported="true">
         </activity>
 
-        <activity android:name=".StillImageActivity"
-            android:exported="true">
-        </activity>
     </application>
 
 </manifest>
